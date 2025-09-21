@@ -8,6 +8,16 @@ The purpose of this framework is to **streamline automation testing** by integra
 
 ---
 
+## 🛠 Tools & Technologies
+- **Programming Language:** Java ☕  
+- **Automation Tool:** Selenium WebDriver 🌐  
+- **Testing Framework:** TestNG, Cucumber 🌐
+- **Build Tool:** Maven ⚡  
+- **Reporting:** Allure Reports 📊  
+- **Version Control:** Git & GitHub 🐙  
+
+---
+
 ## 🏆 Key Features
 ✔️ **Page Object Model (POM)** for clean, maintainable test scripts  
 ✔️ **TestNG Integration** for test execution and reporting  
@@ -18,16 +28,6 @@ The purpose of this framework is to **streamline automation testing** by integra
 ✔️ **Data-Driven Testing** using external test data sources  
 ✔️ **Reusable Utility Classes** for WebDriver management, waits, and assertions  
 ✔️ **Scalable Structure** suitable for both small and enterprise-level projects 
-
----
-
-## 🛠 Tools & Technologies
-- **Programming Language:** Java ☕  
-- **Automation Tool:** Selenium WebDriver 🌐  
-- **Testing Framework:** TestNG, Cucumber 🌐
-- **Build Tool:** Maven ⚡  
-- **Reporting:** Allure Reports 📊  
-- **Version Control:** Git & GitHub 🐙  
 
 ---
 
