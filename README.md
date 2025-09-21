@@ -11,13 +11,13 @@ The purpose of this framework is to **streamline automation testing** by integra
 ## 🏆 Key Features
 ✔️ **Page Object Model (POM)** for clean, maintainable test scripts  
 ✔️ **TestNG Integration** for test execution and reporting  
-✔️ **Cucumber** for test execution
-✔️ **Maven Build Tool** for dependency management 
+✔️ **Cucumber Integration** for test execution   
+✔️ **Maven Build Tool** for dependency management  
 ✔️ **Allure Reports** for rich and interactive test reporting  
 ✔️ **Cross-browser Testing Support** with Chrome, Firefox, Edge  
 ✔️ **Data-Driven Testing** using external test data sources  
 ✔️ **Reusable Utility Classes** for WebDriver management, waits, and assertions  
-✔️ **Scalable Structure** suitable for both small and enterprise-level projects  
+✔️ **Scalable Structure** suitable for both small and enterprise-level projects 
 
 ---
 
