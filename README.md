@@ -12,7 +12,7 @@ The purpose of this framework is to **streamline automation testing** by integra
 ✔️ **Page Object Model (POM)** for clean, maintainable test scripts  
 ✔️ **TestNG Integration** for test execution and reporting  
 ✔️ **Cucumber** for test execution
-✔️ **Maven Build Tool** for dependency management  
+✔️ **Maven Build Tool** for dependency management 
 ✔️ **Allure Reports** for rich and interactive test reporting  
 ✔️ **Cross-browser Testing Support** with Chrome, Firefox, Edge  
 ✔️ **Data-Driven Testing** using external test data sources  
