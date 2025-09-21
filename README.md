@@ -42,6 +42,9 @@ The framework is integrated with **Allure Reports**, offering:
 ## 🎯 Why This Framework?
 This project reflects my expertise in **test automation design and implementation**, specifically:  
 🔹 Building **scalable automation frameworks** from scratch  
+
 🔹 Applying **industry-recognized design patterns** to ensure maintainability  
+
 🔹 Delivering **clear, actionable test reports** for QA teams and stakeholders  
+
 🔹 Automating end-to-end web application testing using **best practices**  
